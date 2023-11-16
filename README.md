@@ -1,5 +1,5 @@
 
-##Error_pls_look 
+#Error_msg_pls_look
 
 npx expo run:android 
 › Building app...
